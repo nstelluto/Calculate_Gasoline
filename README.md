@@ -1,5 +1,4 @@
-# aula07
-
+# Application to calculate if it pays for more gasoline or alcohol
 A new Flutter project.
 
 ## Getting Started
